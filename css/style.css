@@ -1,0 +1,45 @@
+.yellow {
+    color: rgb(255, 230, 0);
+
+}
+
+div>div>p {
+    color: rgb(255, 0, 0);
+
+}
+
+#greycol {
+    color: gray;
+
+}
+
+h3:first-of-type {
+
+    color: pink;
+
+}
+
+p:nth-of-type(3) {
+    color: green;
+
+}
+
+#aaa {
+    color: blueviolet;
+
+}
+
+.css {
+    color: darkgray;
+
+}
+
+tr>td>p:nth-of-type(5) {
+    color: green;
+
+}
+
+tr>td>div>p {
+    color: coral;
+
+}
