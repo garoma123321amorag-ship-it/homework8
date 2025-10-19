@@ -24,17 +24,17 @@ p:nth-of-type(3) {
 
 }
 
-#aaa {
+#aaa:hover {
     color: blueviolet;
 
 }
 
-.css {
+.css:focus {
     color: darkgray;
 
 }
 
-tr>td>p:nth-of-type(5) {
+p:nth-of-type(5) {
     color: green;
 
 }
